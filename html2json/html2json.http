@@ -1,0 +1,6 @@
+@html2json_HostAddress = http://localhost:5149
+
+GET {{html2json_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
